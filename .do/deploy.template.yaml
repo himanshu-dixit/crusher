@@ -1,0 +1,9 @@
+spec:
+  name: img-nodejs
+  services:
+    - name: api
+      dockerfile_path: Dockerfile
+      github:
+        repo: himanshu-dixit/crusher
+        branch: master
+        deploy_on_push: true
