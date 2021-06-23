@@ -4,6 +4,6 @@ spec:
     - name: api
       dockerfile_path: Dockerfile
       github:
-        repo: phuctm97/img-nodejs
+        repo: himanshu-dixit/crusher
         branch: master
         deploy_on_push: true
