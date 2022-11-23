@@ -25,27 +25,24 @@ Crusher simplifies e2e testing, and tasks like
   <summary> expand [+] More issues with testing ( )</summary>
 -  🔋  Find the right selectors that work.
 -  🚥  Setup CI/CD to run tests
--     Start paying for every little thing ( or start building your own framework )
+-    Start paying for every little thing ( or start building your own framework )
 -   Pay for cloud services to run tests on different browser
 -  Set up a reporting system to view test results - Cypress cloud
 -  Image comparison tool to compare visual changes - Percy
 -  🚨 And don't forget to set up alerts for test failures - Slack/Discord/Emails - plus lot more things like test management, debug, updating breaking tests etc.
 </details>
 
-Feeling frustrated? Testing can be frustrating and that's why we built Crusher.
+**Feeling frustrated?** Testing can be frustrating and that's why we built Crusher.
 
 We use low-code approach and built opinionated integrated testing envrionment for devs and their teams.
 
+Here's a test created with Crusher
+<img src="https://user-images.githubusercontent.com/6849438/200099357-eaadec7f-8692-42f7-95a4-96b162370c2e.gif"/>
 
-Get started by joining [discord](https://discord.com/invite/dHZkSNXQrg).
+
+Get started by joining [discord](https://discord.com/invite/dHZkSNXQrg) and star the repo <img src="https://img.shields.io/github/stars/crusherdev/crusher.svg?style=social&label=Star" height="24"/>  
 
 Or read [docs](https://docs.crusher.dev) or check [website](https://crusher.dev)
-
-
-- Star the repo   <img src="https://img.shields.io/github/stars/crusherdev/crusher.svg?style=social&label=Star" height="24"/>  
-
-
-
 
 
 ##  Getting started
