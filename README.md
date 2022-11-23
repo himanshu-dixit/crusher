@@ -8,21 +8,22 @@
   </a>
 </p>
 </p>
-
-
+<img src="https://img.shields.io/discord/789815044669177867"/>
 
 
 <h2 > Fast all-in-one testing framework</h3>
 
-[Crusher](https://crusher.dev) is a new all-in-one open source framework, with low-code recorder, runner + batteries built-in. It uses playwright at core . 
+[Crusher](https://crusher.dev) is a fast all-in-one open source testing framework, it includes low-code recorder, runner + batteries built-in. 
 
-Crusher simplifies e2e testing, and tasks like
--  🔎  Pick a testing library & runner (Jest, Cypress, Playwright, Puppeteer, etc.)
--  🔨  Setup and configure framework according to your needs
--  👨🏽‍💻  Writing stable tests sometime takes hours
+Instead of wrestling with 100s of tools & libraries, you only need crusher.
+
+**Crusher replaces tasks with one solution, tasks like**
+-  🔎  deciding on testing library & runner (Jest, Cypress, Playwright, Puppeteer, etc.)
+-  🔨  setup framework according to your needs
+-  👨🏽‍💻  writing stable tests sometime takes hours
 
 <details>
-  <summary> expand [+] More issues with testing ( )</summary>
+  <summary> 😖 List of more tasks during testing</summary>
 -  🔋  Find the right selectors that work.
 -  🚥  Setup CI/CD to run tests
 -    Start paying for every little thing ( or start building your own framework )
@@ -32,18 +33,16 @@ Crusher simplifies e2e testing, and tasks like
 -  🚨 And don't forget to set up alerts for test failures - Slack/Discord/Emails - plus lot more things like test management, debug, updating breaking tests etc.
 </details>
 
-**Feeling frustrated?** Testing can be frustrating and that's why we built Crusher.
 
-We use low-code approach and built opinionated integrated testing envrionment for devs and their teams.
+Crusher uses low-code approach, is an integrated solution to test locally or with team. 
+It's in `v0.5` and should work with most projects, our focus is stability and DX.
 
-Here's a test created with Crusher
+Join crusher's [discord](https://discord.com/invite/dHZkSNXQrg) to try crusher and help fix things that don't work yet.
+
+Checkout [docs](https://docs.crusher.dev) or check [website](https://crusher.dev)
+
+<hr/>
 <img src="https://user-images.githubusercontent.com/6849438/200099357-eaadec7f-8692-42f7-95a4-96b162370c2e.gif"/>
-
-
-Get started by joining [discord](https://discord.com/invite/dHZkSNXQrg) and star the repo <img src="https://img.shields.io/github/stars/crusherdev/crusher.svg?style=social&label=Star" height="24"/>  
-
-Or read [docs](https://docs.crusher.dev) or check [website](https://crusher.dev)
-
 
 ##  Getting started
 
