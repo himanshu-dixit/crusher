@@ -18,9 +18,9 @@
 Instead of wrestling with 100s of tools & libraries, you only need crusher.
 
 **Crusher replaces tasks with one solution, tasks like**
--  🔎  deciding on testing library & runner (Jest, Cypress, Playwright, Puppeteer, etc.)
--  🔨  setup framework according to your needs
--  👨🏽‍💻  writing stable tests sometime takes hours
+-  choosing testing library & runner (Jest, Cypress, Playwright, Puppeteer, etc.)
+-   Setup framework according to your needs
+-  writing stable tests sometime takes hours
 
 <details>
   <summary> 🤦 More annoying tasks during testing</summary>
@@ -34,7 +34,6 @@ Instead of wrestling with 100s of tools & libraries, you only need crusher.
 -  🚨 And don't forget to set up alerts for test failures - Slack/Discord/Emails - plus lot more things like test management, debug, updating breaking tests etc.
 
 </details>
-
 
 Crusher uses low-code approach, is an integrated solution to test locally or with team. 
 It's in `v0.5` and should work with most projects, our focus is stability and DX.
