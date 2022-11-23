@@ -1,5 +1,5 @@
-<p align="center">
-  <p align="center">
+<p>
+  <p >
   <a href="https://crusher.dev/#gh-light-mode-only">
     <img src="https://i.imgur.com/BRG9MxQ.png" width="140px" alt="Crusher logo" />
   </a>
@@ -12,24 +12,17 @@
 
 
 
-<h3 align="center"> Fast all-in-one testing framework</h3>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/6849438/200099357-eaadec7f-8692-42f7-95a4-96b162370c2e.gif"/>
-</p>
-
-
-
-
+<h2 > Fast all-in-one testing framework</h3>
 
 [Crusher](https://crusher.dev) is a new all-in-one open source framework, with low-code recorder, runner + batteries built-in. It uses playwright at core . 
 
-We built Crusher to simplify e2e testing for everyone, and solve problems like 
+Crusher simplifies e2e testing, and tasks like
 -  🔎  Pick a testing library & runner (Jest, Cypress, Playwright, Puppeteer, etc.)
 -  🔨  Setup and configure framework according to your needs
 -  👨🏽‍💻  Writing stable tests sometime takes hours
+
 <details>
-  <summary>More issues (click to expand)</summary>
-  
+  <summary> expand [+] More issues with testing ( )</summary>
 -  🔋  Find the right selectors that work.
 -  🚥  Setup CI/CD to run tests
 -     Start paying for every little thing ( or start building your own framework )
@@ -37,26 +30,23 @@ We built Crusher to simplify e2e testing for everyone, and solve problems like
 -  Set up a reporting system to view test results - Cypress cloud
 -  Image comparison tool to compare visual changes - Percy
 -  🚨 And don't forget to set up alerts for test failures - Slack/Discord/Emails - plus lot more things like test management, debug, updating breaking tests etc.
-  ```
 </details>
 
-Making testing to make it simple, fast and robust.
+Feeling frustrated? Testing can be frustrating and that's why we built Crusher.
 
-It's an alternative to cypress, playwright, selenium, etc.
+We use low-code approach and built opinionated integrated testing envrionment for devs and their teams.
+
+
+Get started by joining [discord](https://discord.com/invite/dHZkSNXQrg).
+
+Or read [docs](https://docs.crusher.dev) or check [website](https://crusher.dev)
+
+
+- Star the repo   <img src="https://img.shields.io/github/stars/crusherdev/crusher.svg?style=social&label=Star" height="24"/>  
 
 
 
-<div>
-<h5  align="center"> Star repo to support us and get updates :heart: </h5>
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/stars/crusherdev/crusher.svg?style=social&label=Star" height="24"/>  
-  <img src="https://img.shields.io/github/forks/crusherdev/crusher.svg?style=social&label=Fork" height="24"/>
-  <img src="https://img.shields.io/github/watchers/crusherdev/crusher.svg?style=social&label=Watch" height="24"/>
-</div>
-
-<br/>
 
 ##  Getting started
 
