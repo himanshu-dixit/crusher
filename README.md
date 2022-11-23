@@ -39,7 +39,7 @@ It's in `v0.5` and should work with most projects, our focus is stability and DX
 
 Join crusher's [discord](https://discord.com/invite/dHZkSNXQrg) to try crusher and help fix things that don't work yet.
 
-Checkout [docs](https://docs.crusher.dev) or check [website](https://crusher.dev)
+Checkout [docs](https://docs.crusher.dev) or [website](https://crusher.dev)
 
 <hr/>
 <img src="https://user-images.githubusercontent.com/6849438/200099357-eaadec7f-8692-42f7-95a4-96b162370c2e.gif"/>
