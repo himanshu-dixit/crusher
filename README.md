@@ -1,10 +1,10 @@
 <p>
   <p >
   <a href="https://crusher.dev/#gh-light-mode-only">
-    <img src="https://i.imgur.com/BRG9MxQ.png" width="140px" alt="Crusher logo" />
+    <img src="https://i.imgur.com/BRG9MxQ.png" width="180px" alt="Crusher logo" />
   </a>
   <a href="https://crusher.dev/#gh-dark-mode-only">
-    <img src="https://i.imgur.com/ncVx1vo.png"  width="140px" alt="Crusher logo" />
+    <img src="https://i.imgur.com/ncVx1vo.png"  width="180px" alt="Crusher logo" />
   </a>
 </p>
 </p>
