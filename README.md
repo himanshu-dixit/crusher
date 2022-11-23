@@ -13,7 +13,7 @@
 
 <h2 > Fast all-in-one testing framework</h3>
 
-[Crusher](https://crusher.dev) is a fast all-in-one open source testing framework, it includes low-code recorder, runner + batteries built-in. 
+[Crusher](https://crusher.dev) is a fast all-in-one open source testing framework, it includes low-code recorder, runner + batteries, infra built-in. 
 
 Instead of wrestling with 100s of tools & libraries, you only need crusher.
 
